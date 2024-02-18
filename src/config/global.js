@@ -7,25 +7,25 @@ import usdt_ic from "../assets/img/usdt.svg"
 
 export const IS_PRODUCT_MODE = false // TODO
 
-export const contracts_mainnet = { // TODO Pulsechain Mainnet
-    Main: "0xC8d994df027105d8e245659B2934d534F34b18CE",
+export const contracts_mainnet = { // TODO BNBchain Mainnet
+    Main: "0x64503a4bfc817D6166cA6DEAA6aA23773d2f51d4",
 };
 
-export const contracts_testnet = { // TODO V4Pulsechain Testnet
-    Main: "0x269F2acadDd26d377135E581e27bF40Cf4f5e1b6",
+export const contracts_testnet = { // TODO BNBchain Testnet
+    Main: "0xFfA4D3f3cA53EeaF02BBa43C0E3F6c9aa8717B1a",
 };
 
 export const projectToken_mainnet = {
-    name: 'RPLS',
-    address: '0xd2A37C328059EcA94943db0A3E24425E57cCcCDA',
+    name: 'USDT',
+    address: '0x64503a4bfc817D6166cA6DEAA6aA23773d2f51d4',
     decimals: 18,
     logo: rpls_ic,
     isNative: true
 }
 
 export const projectToken_testnet = {
-    name: 'RPLS',
-    address: '0x135Eeb2ED1B006d900F091250Bd85907B652B18f',
+    name: 'USDT',
+    address: '0xFfA4D3f3cA53EeaF02BBa43C0E3F6c9aa8717B1a',
     decimals: 18,
     logo: rpls_ic,
     isNative: true
@@ -33,8 +33,8 @@ export const projectToken_testnet = {
 
 export const tokens_mainnet = [
     {
-        name: 'PLS',
-        address: '0x0000000000000000000000000000000000000000',
+        name: 'USDT',
+        address: '0x64503a4bfc817D6166cA6DEAA6aA23773d2f51d4',
         decimals: 18,
         logo: pls_ic,
         isNative: true
@@ -64,7 +64,7 @@ export const tokens_mainnet = [
 
 export const tokens_testnet = [
     {
-        name: 'v4PLS',
+        name: 'USDT',
         address: '0x0000000000000000000000000000000000000000',
         decimals: 18,
         logo: pls_ic,
