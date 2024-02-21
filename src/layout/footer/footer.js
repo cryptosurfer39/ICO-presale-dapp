@@ -189,6 +189,7 @@ export default function Footer() {
                                 <h3
                                     className="text-sm font-semibold text-black tracking-wider uppercase"
                                 >
+
                             >Privacy Policy</a>
                         </span>
                         <span className="pr-4"
