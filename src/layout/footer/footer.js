@@ -15,7 +15,7 @@ export default function Footer() {
                             alt="Rocket Pool"
                         />
                         <p className="text-black">
-                            Decentralised PLS Staking Protocol
+                            Decentralised Tetra Staking Protocol
                         </p>
                         <div className="flex space-x-6">
                             <a
@@ -189,184 +189,11 @@ export default function Footer() {
                                 <h3
                                     className="text-sm font-semibold text-black tracking-wider uppercase"
                                 >
-                                    Staking
-                                </h3>
-                                <ul
-                                    // role="list" 
-                                    className="mt-4 space-y-4">
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Overview</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >PLS Staking</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Rocket Pulse Staking</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >RPLS Token</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div className="mt-12 md:mt-0">
-                                <h3
-                                    className="text-sm font-semibold text-black tracking-wider uppercase"
-                                >
-                                    Node Operation
-                                </h3>
-                                <ul
-                                    // role="list" 
-                                    className="mt-4 space-y-4">
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >How it works</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Local Nodes</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Cloud Nodes</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Install Rocket Pulse</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div className="md:grid md:grid-cols-2 md:gap-8">
-                            <div>
-                                <h3
-                                    className="text-sm font-semibold text-black tracking-wider uppercase"
-                                >
-                                    Learn
-                                </h3>
-                                <ul
-                                    // role="list" 
-                                    className="mt-4 space-y-4">
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Introduction</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Explainer Series</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Guides</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Developers</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div className="mt-12 md:mt-0">
-                                <h3
-                                    className="text-sm font-semibold text-black tracking-wider uppercase"
-                                >
-                                    Governance
-                                </h3>
-                                <ul
-                                    // role="list" 
-                                    className="mt-4 space-y-4">
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Forum</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Proposals</a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href="https://rocketpulse.finance"
-                                            className="text-base text-gray-700 hover:text-gray-900"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >Delegates</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div className="mt-12 border-t border-gray-200 pt-8">
-                    <p className="text-base text-black xl:text-center pb-5">
-                        <span className="pr-4">
-                            <a
-                                href="https://rocketpulse.finance"
-                                className="text-base xl:text-center text-black hover:text-gray-900"
-                                target="_blank"
-                                rel="noreferrer"
                             >Privacy Policy</a>
                         </span>
                         <span className="pr-4"
                         ><a
-                            href="https://rocketpulse.finance"
+                            href="https://tetrausd.com"
                             className="text-base xl:text-center text-black hover:text-gray-900"
                             target="_blank"
                             rel="noreferrer"
@@ -374,7 +201,7 @@ export default function Footer() {
                         </span>
                     </p>
                     <p className="text-base text-black xl:text-center">
-                        <span className="pr-4">© Rocket Pulse Pty Ltd.</span>
+                        <span className="pr-4">© Tetra USD Ltd.</span>
                     </p>
                 </div>
             </div>
