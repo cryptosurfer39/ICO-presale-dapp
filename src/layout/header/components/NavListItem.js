@@ -21,7 +21,7 @@ export default function NavListItem(props) {
             }}
           >
             <MenuItem className="flex items-center gap-2 !text-trumpos-fontDark hover:!text-trumpos-fontLight hover:underline hover:underline-offset-4 !bg-transparent lg:rounded-full">
-              <Typography as="p" variant="h4" className="font-menu" color="yellow">
+              <Typography as="p" variant="h4" className="font-menu" color="green">
                 {menu.label}
               </Typography>
             </MenuItem>
