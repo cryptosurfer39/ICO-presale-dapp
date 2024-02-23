@@ -374,7 +374,7 @@ export default function Footer() {
                         </span>
                     </p>
                     <p className="text-base text-black xl:text-center">
-                        <span className="pr-4">© Rocket Pulse Pty Ltd.</span>
+                        <span className="pr-4"> Tetra </span>
                     </p>
                 </div>
             </div>
