@@ -7,11 +7,11 @@ import usdt_ic from "../assets/img/usdt.svg"
 
 export const IS_PRODUCT_MODE = false // TODO
 
-export const contracts_mainnet = { // TODO BNBchain Mainnet
+export const contracts_mainnet = { // TODO BNB chain Mainnet
     Main: "0x64503a4bfc817D6166cA6DEAA6aA23773d2f51d4",
 };
 
-export const contracts_testnet = { // TODO BNBchain Testnet
+export const contracts_testnet = { // TODO BNB chain Testnet
     Main: "0xFfA4D3f3cA53EeaF02BBa43C0E3F6c9aa8717B1a",
 };
 
