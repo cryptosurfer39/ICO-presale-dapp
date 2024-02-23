@@ -15,11 +15,11 @@ export default function Footer() {
                             alt="Rocket Pool"
                         />
                         <p className="text-black">
-                            Decentralised PLS Staking Protocol
+                            Decentralised Tetra Staking Protocol
                         </p>
                         <div className="flex space-x-6">
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -42,7 +42,7 @@ export default function Footer() {
                                     ></path></svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -64,7 +64,7 @@ export default function Footer() {
                                     ></path></svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -88,7 +88,7 @@ export default function Footer() {
                                 </svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -112,7 +112,7 @@ export default function Footer() {
                                 </svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -136,7 +136,7 @@ export default function Footer() {
                                 </svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -158,7 +158,7 @@ export default function Footer() {
                                 </svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -196,7 +196,7 @@ export default function Footer() {
                                     className="mt-4 space-y-4">
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -204,7 +204,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -212,7 +212,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -220,7 +220,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="hhttps://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -239,7 +239,7 @@ export default function Footer() {
                                     className="mt-4 space-y-4">
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -247,7 +247,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -255,7 +255,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -263,7 +263,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -284,7 +284,7 @@ export default function Footer() {
                                     className="mt-4 space-y-4">
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -292,7 +292,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -300,7 +300,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -308,7 +308,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -327,7 +327,7 @@ export default function Footer() {
                                     className="mt-4 space-y-4">
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -335,7 +335,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -343,7 +343,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://rocketpulse.finance"
+                                            href="https://twitter.com/tetrausd"
                                             className="text-base text-gray-700 hover:text-gray-900"
                                             target="_blank"
                                             rel="noreferrer"
@@ -366,7 +366,7 @@ export default function Footer() {
                         </span>
                         <span className="pr-4"
                         ><a
-                            href="https://rocketpulse.finance"
+                            href="https://twitter.com/tetrausd"
                             className="text-base xl:text-center text-black hover:text-gray-900"
                             target="_blank"
                             rel="noreferrer"
@@ -374,7 +374,7 @@ export default function Footer() {
                         </span>
                     </p>
                     <p className="text-base text-black xl:text-center">
-                        <span className="pr-4"> Tetra </span>
+                        <span className="pr-4"> Tetra USD </span>
                     </p>
                 </div>
             </div>
