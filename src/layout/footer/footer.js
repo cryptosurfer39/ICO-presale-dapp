@@ -42,7 +42,7 @@ export default function Footer() {
                                     ></path></svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://www.twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -88,7 +88,7 @@ export default function Footer() {
                                 </svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://www.twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -112,7 +112,7 @@ export default function Footer() {
                                 </svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://www.twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -136,7 +136,7 @@ export default function Footer() {
                                 </svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://www.twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -158,7 +158,7 @@ export default function Footer() {
                                 </svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://www.twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
