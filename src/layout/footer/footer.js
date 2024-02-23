@@ -1,4 +1,4 @@
-export default function Footer() {
+export function Footer() {
     return (
         <footer
             className='w-full bg-white pb-1'
@@ -19,7 +19,7 @@ export default function Footer() {
                         </p>
                         <div className="flex space-x-6">
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://www.twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
@@ -64,7 +64,7 @@ export default function Footer() {
                                     ></path></svg>
                             </a>
                             <a
-                                href="https://rocketpulse.finance"
+                                href="https://www.twitter.com/tetrausd"
                                 className="text-black hover:text-gray-700"
                                 target="_blank"
                                 rel="noreferrer"
