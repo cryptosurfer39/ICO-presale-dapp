@@ -1,4 +1,4 @@
-import { pulsechain, pulsechainV4 } from "wagmi/chains";
+import { BNBchain, BNBchain } from "wagmi/chains";
 import rpls_ic from "../assets/img/rpls.png"
 import pls_ic from "../assets/img/pulse.png"
 import dai_ic from "../assets/img/dai.png"
@@ -97,7 +97,7 @@ export const global = {
     CONTRACTS: IS_PRODUCT_MODE ? contracts_mainnet : contracts_testnet,
     TOKENS: IS_PRODUCT_MODE ? tokens_mainnet : tokens_testnet,
     PROJECT_TOKEN: IS_PRODUCT_MODE ? projectToken_mainnet : projectToken_testnet,
-    chain: IS_PRODUCT_MODE ? pulsechain : pulsechainV4,
+    chain: IS_PRODUCT_MODE ? BNB chain : BNB chain,
     defaultGas: IS_PRODUCT_MODE ? 1000 : 0.1,
     REFETCH_INTERVAL: 30000,
     usdDecimals: 6,
